@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Home" xml:space="preserve">
+    <value>Главная</value>
+  </data>
+  <data name="AboutUs" xml:space="preserve">
+    <value>О Компании</value>
+  </data>
+  <data name="Cooperation" xml:space="preserve">
+    <value>Сотрудничество</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Контакты</value>
+  </data>
+  <data name="TitleHome" xml:space="preserve">
+    <value>SafiMed - Главная</value>
+  </data>
+  <data name="TitleCooperation" xml:space="preserve">
+    <value>SafiMed - Сотрудничество</value>
+  </data>
+  <data name="TitleContact" xml:space="preserve">
+    <value>SafiMed - Контакты</value>
+  </data>
+  <data name="TitleAbout" xml:space="preserve">
+    <value>SafiMed - О Компании</value>
+  </data>
+  <data name="CopyrightFooter" xml:space="preserve">
+    <value>«SafiMed» SIA</value>
+  </data>
+  <data name="Ru" xml:space="preserve">
+    <value>Ru</value>
+  </data>
+  <data name="En" xml:space="preserve">
+    <value>En</value>
+  </data>
+  <data name="MainTitle" xml:space="preserve">
+    <value>Мы помогаем воплотить инновации в практическую медицину и сделать их доступными для здоровья людей</value>
+  </data>
+  <data name="MainBody" xml:space="preserve">
+    <value>Производители, создавая высокотехнологичные продукты, нуждаются в профессиональном и компетентном проводнике, который мог бы помочь сделать продукт доступным потребителю – как врачам, так и пациентам. Работая в сфере инновационных и традиционных медицинских технологий, компаниям-производителям  необходим  надежный стратегический партнер, который является настоящей альтернативой собственного представительства компании, предлагая сервис «полного цикла сопровождения». Мы специалисты в развитии и продвижении бизнеса на новых рынках. Зная о непрерывных изменениях в области здравоохранения, мы профессионально оцениваем перспективы и предлагаем оптимальные решения.</value>
+  </data>
+  <data name="ConsultingServiceText" xml:space="preserve">
+    <value>Мы превращаем данные сухой статистики в ваши эффективные инструменты принятия решений.</value>
+  </data>
+  <data name="ConsultingService" xml:space="preserve">
+    <value>КОНСУЛЬТАЦИОННЫЕ УСЛУГИ</value>
+  </data>
+  <data name="CoreBenefitsText" xml:space="preserve">
+    <value>Мы полностью принимаем и соответствуем корпоративной культуре и ценностям наших партнеров.</value>
+  </data>
+  <data name="CommercialService" xml:space="preserve">
+    <value>КОММЕРЧЕСКИЕ УСЛУГИ</value>
+  </data>
+  <data name="CommercialServiceText" xml:space="preserve">
+    <value>На основе наших коммерческих возможностей, профессионализма и опыта в различных областях практической медицины и фармацевтики мы реализуем бизнес-решения.</value>
+  </data>
+  <data name="CoreBenefits" xml:space="preserve">
+    <value>КЛЮЧЕВЫЕ ПРЕИМУЩЕСТВА</value>
+  </data>
+  <data name="AboutTab1BodyTitle" xml:space="preserve">
+    <value>ОБЩАЯ ИНФОРМАЦИЯ</value>
+  </data>
+  <data name="AboutTab1BodyText2" xml:space="preserve">
+    <value>Команда состоит из экспертов имеющих огромный международный опыт работы в практической медицине, консалтинге, регистрации, маркетинге и дистрибуции.</value>
+  </data>
+  <data name="AboutTab1BodyText3" xml:space="preserve">
+    <value>Профессиональные логистическая, дистрибуторская, представительская и экспертно-партнёрские сети, а также сильные маркетинговая и регистрационная службы позволяют компании SafiMed обеспечить гибкость поставок, оперативную регистрацию и продвижение продукции.</value>
+  </data>
+  <data name="AboutTab1BodyText4" xml:space="preserve">
+    <value>Роль нашей компании незаменима, когда производители инновационных продуктов не имеют достаточно ресурсов для использования всех возможностей продвижения на новых рынках.</value>
+  </data>
+  <data name="AboutTab1BodyText5" xml:space="preserve">
+    <value>Компания SafiMed предлагает комплексные бизнес-решения в области здравоохранения, для того, чтобы возможности производителей достигли врачей-специалистов и пациентов.</value>
+  </data>
+  <data name="AboutTab1BodyText6" xml:space="preserve">
+    <value>Вы можете запросить интересующую дополнительную информацию о компании и задать вопросы, связавшись</value>
+  </data>
+  <data name="AboutTab1BodyText6Link" xml:space="preserve">
+    <value>с нами.</value>
+  </data>
+  <data name="AboutTab1BodyText1" xml:space="preserve">
+    <value>SafiMed - компания, специализирующаяся на маркетинге и дистрибуции фармацевтических и медицинских продуктов (изделий медицинского назначения, расходных материалов и медицинской техники, лекарственных средств, биопрепаратов, биологически-активных добавок, лечебной косметики).</value>
+  </data>
+  <data name="AboutTab2BodyTitle" xml:space="preserve">
+    <value>ВИДЫ ДЕЯТЕЛЬНОСТИ</value>
+  </data>
+  <data name="AboutTab2BodyText1" xml:space="preserve">
+    <value>Используя принцип «полного цикла сопровождения», мы обеспечиваем производителям фармацевтических и медицинских продуктов развитие и продвижение бизнеса на новых рынках, начиная с первичного анализа рынка и заканчивая доставкой конечному потребителю.</value>
+  </data>
+  <data name="AboutTab2BodyText2" xml:space="preserve">
+    <value>Консультационные услуги:</value>
+  </data>
+  <data name="AboutTab2BodyText2Part1" xml:space="preserve">
+    <value>маркетинговые исследования;</value>
+  </data>
+  <data name="AboutTab2BodyText2Part2" xml:space="preserve">
+    <value>сопровождение процесса регистрации.</value>
+  </data>
+  <data name="AboutTab1Title" xml:space="preserve">
+    <value>Реализуем возможности производителей и потребности рынков</value>
+  </data>
+  <data name="AboutTab2Title" xml:space="preserve">
+    <value>Реализуем возможности роста и развития вашего бизнеса</value>
+  </data>
+  <data name="AboutTab2BodyText3" xml:space="preserve">
+    <value>Коммерческие услуги:</value>
+  </data>
+  <data name="AboutTab2BodyText3Part1" xml:space="preserve">
+    <value>маркетинг;</value>
+  </data>
+  <data name="AboutTab2BodyText3Part2" xml:space="preserve">
+    <value>дистрибуция и продажи.</value>
+  </data>
+  <data name="AboutTab2BodyText4" xml:space="preserve">
+    <value>Как показывает наш опыт ведения бизнеса на интенсивно развивающихся рынках стран Восточной Европы и Центральной Азии, мы обращаем внимание на эффективное управление рисками, основанного на действующих правовых нормах Европейского Союза.</value>
+  </data>
+  <data name="AboutTab2BodyText5" xml:space="preserve">
+    <value>Учитывая наши возможности, профессиональную команду и налаженную инфраструктуру, компания SafiMed является идеальным партнёром в области консалтинга, маркетинга и дистрибуции.</value>
+  </data>
+  <data name="AboutTab2BodyText6" xml:space="preserve">
+    <value>Вы можете запросить интересующую дополнительную информацию о компании и задать вопросы,</value>
+  </data>
+  <data name="AboutTab2BodyText6Link" xml:space="preserve">
+    <value>связавшись с нами.</value>
+  </data>
+  <data name="AboutTab3BodyText1" xml:space="preserve">
+    <value>Наша Миссия</value>
+  </data>
+  <data name="AboutTab3BodyText10" xml:space="preserve">
+    <value>Мы предлагаем высококачественные услуги,  основываясь на принципе «полного цикла», где мы можем сами контролировать качество на каждом этапе.</value>
+  </data>
+  <data name="AboutTab3BodyText11" xml:space="preserve">
+    <value>КОМАНДНАЯ РАБОТА</value>
+  </data>
+  <data name="AboutTab3BodyText12" xml:space="preserve">
+    <value>Мы гордимся нашей командой. Каждый сотрудник является экспертом в своей области и понимает, как его работа влияет на результаты работы всей команды.</value>
+  </data>
+  <data name="AboutTab3BodyText13" xml:space="preserve">
+    <value>КЛИЕНТООРИЕНТИРОВАННОСТЬ</value>
+  </data>
+  <data name="AboutTab3BodyText14" xml:space="preserve">
+    <value>«Мы являемся этической компанией, поэтому мы уважаем ценности наших партнеров и клиентов и придерживаемся только честных и этических принципов сотрудничества».</value>
+  </data>
+  <data name="AboutTab3BodyText2" xml:space="preserve">
+    <value>Мы улучшаем качество жизни и здоровье людей, делая лучшее доступным, для тех, кто в этом нуждается</value>
+  </data>
+  <data name="AboutTab3BodyText3" xml:space="preserve">
+    <value>Наша Цель</value>
+  </data>
+  <data name="AboutTab3BodyText4" xml:space="preserve">
+    <value>Будучи квалифицированным и надёжным партнёром, ориентирующимся в современных медицинских тенденциях и актуальных потребностях рынка, компания SafiMed создаёт долгосрочные и доверительные отношения с партнерами.</value>
+  </data>
+  <data name="AboutTab3BodyText5" xml:space="preserve">
+    <value>Наши Ценности</value>
+  </data>
+  <data name="AboutTab3BodyText6" xml:space="preserve">
+    <value>Наши ценности – это принципы, которыми мы руководствуемся в своих поступках и решениях, когда мы взаимодействуем с партнерами, клиентами и медицинским сообществом.</value>
+  </data>
+  <data name="AboutTab3BodyText7" xml:space="preserve">
+    <value>ЛИДЕРСТВО</value>
+  </data>
+  <data name="AboutTab3BodyText8" xml:space="preserve">
+    <value>Мы стремимся занимать лидирующие позиции, развиваясь и повышая уровень нашего профессионализма.</value>
+  </data>
+  <data name="AboutTab3BodyText9" xml:space="preserve">
+    <value>КАЧЕСТВО</value>
+  </data>
+  <data name="AboutTab3BodyTitle" xml:space="preserve">
+    <value>КОРПОРАТИВНАЯ КУЛЬТУРА</value>
+  </data>
+  <data name="AboutTab3Title" xml:space="preserve">
+    <value>Мы улучшаем качество жизни и здоровье людей</value>
+  </data>
+  <data name="AboutTab3BodyText15" xml:space="preserve">
+    <value>Эти ценности определяют нормы поведения компании на рынке и каждого сотрудника.</value>
+  </data>
+  <data name="AboutTab4BodyTitle" xml:space="preserve">
+    <value>ОБРАЩЕНИЕ ДИРЕКТОРА КОМПАНИИ</value>
+  </data>
+  <data name="AboutTab4Title" xml:space="preserve">
+    <value>Основа для долгосрочного бизнеса</value>
+  </data>
+  <data name="AboutTab4BodyText1" xml:space="preserve">
+    <value>Цель нашей работы — предоставить производителям медицинской и фармацевтической продукции возможность ведения инновационного бизнеса на новых рынках Восточной Европы и Центральной Азии.</value>
+  </data>
+  <data name="AboutTab4BodyText2" xml:space="preserve">
+    <value>Используя комплексный подход, в который объединены все процессы дистрибуции и маркетинга, в единую, чётко функционирующую бизнес-систему, управляемую нами в тесном сотрудничестве с партнером-производителем.</value>
+  </data>
+  <data name="AboutTab4BodyText3" xml:space="preserve">
+    <value>Мы всегда открыты для сотрудничества с компаниями-производителями фармацевтической продукции и продукции медицинского назначения.</value>
+  </data>
+  <data name="AboutTab4BodyText4" xml:space="preserve">
+    <value>Мы также обеспечиваем полное сопровождение регистрационных процессов всей медицинской продукции и фармацевтических препаратов.</value>
+  </data>
+  <data name="AboutTab4BodyText5" xml:space="preserve">
+    <value>Наша команда, сеть представительств, возможности и опыт всегда помогут развитию Вашего бизнеса. Мы используем международный подход к бизнесу и построению партнёрских отношений, наше знание специфики новых и перспективных для Вас рынков, максимально снижает Ваши риски при выходе на эти рынки.</value>
+  </data>
+  <data name="AboutTab4BodyText6" xml:space="preserve">
+    <value>Компания SafiMed развивает Ваш бизнес, используя современные и актуальные бизнес-решения, делая Ваш бизнес на новых территориях, управляемым, удобным, гибким и доступным.</value>
+  </data>
+  <data name="AboutTab4BodyText7" xml:space="preserve">
+    <value>Искренне Ваша,</value>
+  </data>
+  <data name="AboutTab4BodyText8" xml:space="preserve">
+    <value>Marina Sheveleva</value>
+  </data>
+  <data name="AboutTab4BodyText9" xml:space="preserve">
+    <value>Директор</value>
+  </data>
+  <data name="AboutTab5BodyTitle" xml:space="preserve">
+    <value>СЕТЬ ПРЕДСТАВИТЕЛЬСТВ</value>
+  </data>
+  <data name="AboutTab5Title" xml:space="preserve">
+    <value>Наша стратегическая цель – интенсивное развитие компании</value>
+  </data>
+  <data name="AboutTab5BodyText1" xml:space="preserve">
+    <value>Головной офис компании «SafiMed» расположен в г. Рига, Латвия.</value>
+  </data>
+  <data name="AboutTab5BodyText2" xml:space="preserve">
+    <value>Компания имеет собственную структуру постоянных представителей и партнерскую сеть в странах Единого Евразийского Союза (Беларусь, Россия, Армения, Казахстан, Кыргызстан) и стран Балтии (Латвия, Литва, Эстония).</value>
+  </data>
+  <data name="AboutTab5BodyText3" xml:space="preserve">
+    <value>Координационная деятельность осуществляется Латвийским офисом. Мы  сотрудничаем с европейскими логистическими операторами, что позволяет нам  обеспечить складское хранение, соответствующее требованиям GDP.</value>
+  </data>
+  <data name="AboutTab5BodyText4" xml:space="preserve">
+    <value>Наиболее широко представлена дочерняя структура компании в г. Минске, Республика Беларусь. Представители компании, обеспечивают процессы регистрации продукции, логистику, а также координируют маркетинг и дистрибуцию.</value>
+  </data>
+  <data name="AboutTab5BodyText5" xml:space="preserve">
+    <value>Вы можете запросить интересующую дополнительную информацию о компании и задать вопросы,</value>
+  </data>
+  <data name="AboutTab5BodyText5Link" xml:space="preserve">
+    <value>связавшись с нами.</value>
+  </data>
+  <data name="CooperationTab1BodyTitle" xml:space="preserve">
+    <value>ПРИНЦИПЫ СОТРУДНИЧЕСТВА</value>
+  </data>
+  <data name="CooperationTab1Title" xml:space="preserve">
+    <value>Основа нашей работы – комплексные бизнес-решения</value>
+  </data>
+  <data name="CooperationTab1BodyText1" xml:space="preserve">
+    <value>Модель сотрудничества компании SafiMed с производителями, основана на эксклюзивном представлении продукции на рынках стран Евразийского экономического союза (Беларусь, Россия, Армения, Казахстан, Кыргызстан) и стран Балтии (Латвия, Литва, Эстония).</value>
+  </data>
+  <data name="CooperationTab1BodyText2" xml:space="preserve">
+    <value>Мы предлагаем сотрудничество потенциальным партнерам, используя принцип «полного сопровождения», начиная от исследования потенциала рынка, заканчивая продажей и поставкой продукции клиенту.</value>
+  </data>
+  <data name="CooperationTab1BodyText3" xml:space="preserve">
+    <value>Мы придерживаемся этических норм и принципов принятых в компаниях наших клиентов и партнёров.</value>
+  </data>
+  <data name="CooperationTab1BodyTab1" xml:space="preserve">
+    <value>Аналитика и маркетинговые исследования рынка</value>
+  </data>
+  <data name="CooperationTab1BodyTab2" xml:space="preserve">
+    <value>Сопровождение процессов регистрации</value>
+  </data>
+  <data name="CooperationTab1BodyTab3" xml:space="preserve">
+    <value>Дистрибуция и продажи</value>
+  </data>
+  <data name="CooperationTab1BodyTab4" xml:space="preserve">
+    <value>Создание и реализация маркетинговой стратегии</value>
+  </data>
+  <data name="CooperationTab2BodyTitle" xml:space="preserve">
+    <value>КОНСАЛТИНГ</value>
+  </data>
+  <data name="CooperationTab2Title" xml:space="preserve">
+    <value>Эффективные инструменты принятия решений – основные факторы успеха</value>
+  </data>
+  <data name="CooperationTab2BodyText1" xml:space="preserve">
+    <value>Маркетинговые исследования</value>
+  </data>
+  <data name="CooperationTab2BodyText2" xml:space="preserve">
+    <value>Используя аспекты бизнес-среды, мы проведем маркетинговые исследования рынка, исходя из ваших индивидуальных потребностей</value>
+  </data>
+  <data name="CooperationTab2BodyText3" xml:space="preserve">
+    <value>Мы превращаем данные сухой статистики в ваши эффективные инструменты принятия решений.</value>
+  </data>
+  <data name="CooperationTab2BodyText4" xml:space="preserve">
+    <value>Сопровождение процесса регистрации</value>
+  </data>
+  <data name="CooperationTab2BodyText5" xml:space="preserve">
+    <value>Квалифицированные специалисты отдела регистрации нашей компании, помогут вам провести процесс регистрации Вашего продукта в органах регистрации. Также, наши специалисты проконсультируют Вас по всем регуляторным вопросам.</value>
+  </data>
+  <data name="CooperationTab3BodyTitle" xml:space="preserve">
+    <value>МАРКЕТИНГ И ДИСТРИБУЦИЯ</value>
+  </data>
+  <data name="CooperationTab3Title" xml:space="preserve">
+    <value>Мы помогаем обеспечивать доступность инноваций в практической медицине и фармацевтике</value>
+  </data>
+  <data name="CooperationTab3BodyText1Part1" xml:space="preserve">
+    <value>Маркетинговая и коммерческая стратегии</value>
+  </data>
+  <data name="CooperationTab3BodyText1Part2" xml:space="preserve">
+    <value>Дистрибуция и продажа</value>
+  </data>
+  <data name="CooperationTab3BodyText2" xml:space="preserve">
+    <value>Ключевые особенности:</value>
+  </data>
+  <data name="CooperationTab3BodyText3" xml:space="preserve">
+    <value>Наши специалисты из отдела маркетинга и отдела продаж проведут маркетинговые исследования,  учитывая потребности производителя, а также разработают коммерческую стратегию и обеспечат продажи на новых рынках.</value>
+  </data>
+  <data name="CooperationTab4BodyTitle" xml:space="preserve">
+    <value>НАШИ ОСНОВНЫЕ ПРЕИМУЩЕСТВА</value>
+  </data>
+  <data name="CooperationTab4Title" xml:space="preserve">
+    <value>Профессионализм. Ответственность. Надежность</value>
+  </data>
+  <data name="CooperationTab4BodyText1" xml:space="preserve">
+    <value>КОМАНДА ПРОФЕССИОНАЛОВ</value>
+  </data>
+  <data name="CooperationTab4BodyText2" xml:space="preserve">
+    <value>Команда состоит из экспертов имеющих огромный международный опыт работы в практической медицине, консалтинге, регистрации, маркетинге и дистрибуции. Это позволяет достигать целей поставленных нашими партнёрами.</value>
+  </data>
+  <data name="CooperationTab4BodyText3" xml:space="preserve">
+    <value>ЭФФЕКТИВНАЯ СТРУКТУРА</value>
+  </data>
+  <data name="CooperationTab4BodyText4" xml:space="preserve">
+    <value>Эффективность достигается за счёт работы региональных представителей, партнеров и развитой сети дистрибуции.</value>
+  </data>
+  <data name="CooperationTab4BodyText5" xml:space="preserve">
+    <value>СООТВЕТСВИЕ</value>
+  </data>
+  <data name="CooperationTab4BodyText6" xml:space="preserve">
+    <value>Мы придерживаемся этических норм и принципов, принятых в компаниях наших клиентов и партнёров.</value>
+  </data>
+  <data name="CooperationTab4BodyText7" xml:space="preserve">
+    <value>СОВРЕМЕННЫЕ БИЗНЕС-РЕШЕНИЯ</value>
+  </data>
+  <data name="CooperationTab4BodyText8" xml:space="preserve">
+    <value>Мы предоставляем комплексный подход, учитывая индивидуальные потребности заказчика. Предоставляемые нами бизнес-решения – наша гордость.</value>
+  </data>
+  <data name="CooperationTab4BodyText9" xml:space="preserve">
+    <value>РИСК МЕНЕДЖМЕНТ</value>
+  </data>
+  <data name="CooperationTab4BodyText10" xml:space="preserve">
+    <value>Мы работаем в соответствии с правовыми нормами Европейского Союза. При работе с партнерами мы страхуем логистические и финансовые риски.</value>
+  </data>
+  <data name="ContactsBodyTitle" xml:space="preserve">
+    <value>КОНТАКТЫ</value>
+  </data>
+  <data name="ContactsTitle" xml:space="preserve">
+    <value>ВАШ НАДЕЖНЫЙ БИЗНЕС-ПАРТНЕР</value>
+  </data>
+  <data name="ContactsBodyText1" xml:space="preserve">
+    <value>Головной офис компании:</value>
+  </data>
+  <data name="ContactsBodyText2" xml:space="preserve">
+    <value>«SafiMed» SIA</value>
+  </data>
+  <data name="ContactsBodyText3" xml:space="preserve">
+    <value>Маркетинг и дистрибуция фармацевтических и медицинских продуктов</value>
+  </data>
+  <data name="ContactsBodyText4" xml:space="preserve">
+    <value>Код компании: хххххххххххх</value>
+  </data>
+  <data name="ContactsBodyText5" xml:space="preserve">
+    <value>Адрес: ул. Кришьянис Валдемарс 18-7 Рига, Латвия, LV-1010</value>
+  </data>
+  <data name="ContactsBodyText6" xml:space="preserve">
+    <value>Телефон (LV): ‎+371 24 86 24 22</value>
+  </data>
+  <data name="ContactsBodyText7" xml:space="preserve">
+    <value>Моб. (LV): +371 24 86 24 22</value>
+  </data>
+  <data name="ContactsBodyText8" xml:space="preserve">
+    <value>Эл.почта:</value>
+  </data>
+  <data name="MainSlider4Text" xml:space="preserve">
+    <value>Мы помогаем обеспечивать доступность инноваций в практической медицине и фармацевтике</value>
+  </data>
+  <data name="MainSlider5Text" xml:space="preserve">
+    <value>ИЗДЕЛИЯ МЕДИЦИНСКОГО НАЗНАЧЕНИЯ, РАСХОДНЫЕ МАТЕРИАЛЫ И МЕДИЦИНСКАЯ ТЕХНИКА</value>
+  </data>
+  <data name="MainSlider1Text" xml:space="preserve">
+    <value>ФАРМАЦЕВТИЧЕСКИЕ ПРЕПАРАТЫ</value>
+  </data>
+  <data name="MainSlider2Text" xml:space="preserve">
+    <value>БИОФАРМАЦЕВТИЧЕСКИЕ ПРЕПАРАТЫ</value>
+  </data>
+  <data name="MainSlider3Text" xml:space="preserve">
+    <value>ОТС ПРЕПАРАТЫ, БАД И ЛЕЧЕБНАЯ КОСМЕТИКА</value>
+  </data>
+  <data name="MainSlider1Description" xml:space="preserve">
+    <value>Предлагаю вынести сюда какую нибудь информацию с кратким описанием и возможным переходом на какую нибудь вкладку</value>
+  </data>
+  <data name="ContactFormComp" xml:space="preserve">
+    <value>Компания</value>
+  </data>
+  <data name="ContactFormDesc" xml:space="preserve">
+    <value>Вы можете связаться с нами, используя форму ниже. Все поля обязательны для заполнения.</value>
+  </data>
+  <data name="ContactFormEMail" xml:space="preserve">
+    <value>E-Mail</value>
+  </data>
+  <data name="ContactFormMail" xml:space="preserve">
+    <value>Сообщение</value>
+  </data>
+  <data name="ContactFormName" xml:space="preserve">
+    <value>Ваше Имя</value>
+  </data>
+  <data name="ContactFormPhone" xml:space="preserve">
+    <value>Телефон</value>
+  </data>
+  <data name="ContactFormSend" xml:space="preserve">
+    <value>Отправить</value>
+  </data>
+  <data name="ContactFormTitle" xml:space="preserve">
+    <value>Форма обратной связи</value>
+  </data>
+  <data name="Required" xml:space="preserve">
+    <value>Обязательное поле.</value>
+  </data>
+  <data name="InvalidEmail" xml:space="preserve">
+    <value>Указан неверный E-Mail</value>
+  </data>
+  <data name="MessageSendError" xml:space="preserve">
+    <value>Отправка сообщения не удалась!</value>
+  </data>
+  <data name="MessageSendSuccess" xml:space="preserve">
+    <value>Сообщение отправлено успешно!</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>info@safi-med.com</value>
+  </data>
+  <data name="FooterRights" xml:space="preserve">
+    <value>Все права защищены.</value>
+  </data>
+</root>

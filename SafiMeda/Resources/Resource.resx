@@ -1,0 +1,543 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Home" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="AboutUs" xml:space="preserve">
+    <value>About Us</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Contacts</value>
+  </data>
+  <data name="Cooperation" xml:space="preserve">
+    <value>Cooperation</value>
+  </data>
+  <data name="TitleHome" xml:space="preserve">
+    <value>SafiMed - Home</value>
+  </data>
+  <data name="TitleAbout" xml:space="preserve">
+    <value>SafiMed - About Us</value>
+  </data>
+  <data name="TitleContact" xml:space="preserve">
+    <value>SafiMed - Contacts</value>
+  </data>
+  <data name="TitleCooperation" xml:space="preserve">
+    <value>SafiMed - Cooperation</value>
+  </data>
+  <data name="CopyrightFooter" xml:space="preserve">
+    <value>«SafiMed» SIA</value>
+  </data>
+  <data name="Ru" xml:space="preserve">
+    <value>Ru</value>
+  </data>
+  <data name="En" xml:space="preserve">
+    <value>En</value>
+  </data>
+  <data name="MainTitle" xml:space="preserve">
+    <value>We help to realize innovations in medical practice and make them available to public health</value>
+  </data>
+  <data name="MainBody" xml:space="preserve">
+    <value>Creating high-tech products, manufacturers need a professional qualified promoter, who can make the product available for consumer - for both doctors and patients. Given the evolving trends across healthcare communities, you need a forward-thinking strategic partner that goes beyond traditional outsourcing, which offers "full-cycle support" service. Our integral feature is the development and promotion of partners’ business in the new markets. To address the complexity of our markets, we go deeper to develop an understanding of the unique needs of various channels and to provide customized solutions.</value>
+  </data>
+  <data name="ConsultingService" xml:space="preserve">
+    <value>CONSULTING SERVICES</value>
+  </data>
+  <data name="ConsultingServiceText" xml:space="preserve">
+    <value>Analytical data in our hands transforms from bare statistics into your powerful decision-making tool.</value>
+  </data>
+  <data name="CommercialService" xml:space="preserve">
+    <value>COMMERCIAL SERVICES</value>
+  </data>
+  <data name="CommercialServiceText" xml:space="preserve">
+    <value>Combination of our breadth of commercial capabilities with profound expertise across a broad range of therapeutics allows us to implement business solutions.</value>
+  </data>
+  <data name="CoreBenefits" xml:space="preserve">
+    <value>CORE BENEFITS</value>
+  </data>
+  <data name="CoreBenefitsText" xml:space="preserve">
+    <value>Full compliance with the corporate culture, goals and values of our partner.</value>
+  </data>
+  <data name="AboutTab1BodyTitle" xml:space="preserve">
+    <value>WHO WE ARE</value>
+  </data>
+  <data name="AboutTab1BodyText4" xml:space="preserve">
+    <value>Oftentimes, manufacturing companies have great innovative products, but do not possess the resources to take full advantage of brand-new business opportunities. This is where SafiMed can play a key role.</value>
+  </data>
+  <data name="AboutTab1BodyText3" xml:space="preserve">
+    <value>Professional logistic, distributors and representative network, network of partners and experts, as well as strong marketing and registration services allow SafiMed to provide supply flexibility, efficient registration and marketing.</value>
+  </data>
+  <data name="AboutTab1BodyText2" xml:space="preserve">
+    <value>SafiMed is driven by a dedicated team of professionals with profound international expertise in applied medicine, consulting, registration, marketing and distribution.</value>
+  </data>
+  <data name="AboutTab1BodyText1" xml:space="preserve">
+    <value>SafiMed is an enterprise with core competencies in marketing and distribution of pharmaceuticals and medicines (medical devices, consumables, medical equipment, remedies, biochemical products, nutritional supplements,  medicinal cosmetics).</value>
+  </data>
+  <data name="AboutTab1BodyText5" xml:space="preserve">
+    <value>SafiMed was founded to provide integrated business solutions for the healthcare areas, so that manufacturers' potential meet individual needs of multiple HCPs and customers.</value>
+  </data>
+  <data name="AboutTab1BodyText6" xml:space="preserve">
+    <value>You can request detailed information, get a full company &amp; services presentation, and receive our answers to your questions by</value>
+  </data>
+  <data name="AboutTab1BodyText6Link" xml:space="preserve">
+    <value>contacting us.</value>
+  </data>
+  <data name="AboutTab2BodyTitle" xml:space="preserve">
+    <value>WHAT WE DO</value>
+  </data>
+  <data name="AboutTab2BodyText1" xml:space="preserve">
+    <value>Using "full-cycle support" principle we ensure business development and promotion on new markets for manufacturers of pharmaceutical and medical products, starting with primary market analysis and ending with the delivery to the final consumer.</value>
+  </data>
+  <data name="AboutTab2BodyText2" xml:space="preserve">
+    <value>Consulting services:</value>
+  </data>
+  <data name="AboutTab2BodyText2Part1" xml:space="preserve">
+    <value>Market Research</value>
+  </data>
+  <data name="AboutTab2BodyText2Part2" xml:space="preserve">
+    <value>Products registration support</value>
+  </data>
+  <data name="AboutTab1Title" xml:space="preserve">
+    <value>A bridge between the manufacturer and consumers</value>
+  </data>
+  <data name="AboutTab2Title" xml:space="preserve">
+    <value>Drive your sales growth from international opportunities</value>
+  </data>
+  <data name="AboutTab2BodyText3" xml:space="preserve">
+    <value>Commercial services:</value>
+  </data>
+  <data name="AboutTab2BodyText3Part1" xml:space="preserve">
+    <value>Marketing</value>
+  </data>
+  <data name="AboutTab2BodyText3Part2" xml:space="preserve">
+    <value>Distributions and Sales</value>
+  </data>
+  <data name="AboutTab2BodyText4" xml:space="preserve">
+    <value>Being deeply aware of the current challenges arising in highly developing markets in CE, we choose to prioritise reliable risk management strategies, founded on EU effective legal rules.</value>
+  </data>
+  <data name="AboutTab2BodyText5" xml:space="preserve">
+    <value>Owing to professional experience in the pharmaceutical and medical field gained by its team, our company is the ideal partner for consulting, marketing, and distribution services.</value>
+  </data>
+  <data name="AboutTab2BodyText6" xml:space="preserve">
+    <value>You can request detailed information, get a full company &amp; services presentation, and receive our answers to your questions by</value>
+  </data>
+  <data name="AboutTab2BodyText6Link" xml:space="preserve">
+    <value>contacting us.</value>
+  </data>
+  <data name="AboutTab3BodyTitle" xml:space="preserve">
+    <value>OUR MISSION, VISION  AND VALUES</value>
+  </data>
+  <data name="AboutTab3Title" xml:space="preserve">
+    <value>The company’s services are designed to benefit people and improve the quality of life</value>
+  </data>
+  <data name="AboutTab3BodyText1" xml:space="preserve">
+    <value>OUR MISSION STATEMENT</value>
+  </data>
+  <data name="AboutTab3BodyText2" xml:space="preserve">
+    <value>We improve public health and also the life quality, making the best available for those who need it.</value>
+  </data>
+  <data name="AboutTab3BodyText3" xml:space="preserve">
+    <value>OUR VISION</value>
+  </data>
+  <data name="AboutTab3BodyText4" xml:space="preserve">
+    <value>SafiMed company creates long-term confidential relations, maintaining our leadership as a reliable partner, focusing on up-to-date healthcare business tendencies and the latest market needs.</value>
+  </data>
+  <data name="AboutTab3BodyText5" xml:space="preserve">
+    <value>OUR CORE VALUES</value>
+  </data>
+  <data name="AboutTab3BodyText6" xml:space="preserve">
+    <value>Our values are the principles, by which we are guided help to define who we are and the kind of company we aim to be. They influence the way we work with each other – and the way we serve our partners, clients and medical society.</value>
+  </data>
+  <data name="AboutTab3BodyText7" xml:space="preserve">
+    <value>LEADERSHIP</value>
+  </data>
+  <data name="AboutTab3BodyText8" xml:space="preserve">
+    <value>Leadership is a state of action, while developing, improving our professional level.</value>
+  </data>
+  <data name="AboutTab3BodyText9" xml:space="preserve">
+    <value>QUALITY</value>
+  </data>
+  <data name="AboutTab3BodyText10" xml:space="preserve">
+    <value>We are committed to providing high-quality services using "full-cycle" principle, when we can fulfill the quality control on each step.</value>
+  </data>
+  <data name="AboutTab3BodyText11" xml:space="preserve">
+    <value>TEAMWORK</value>
+  </data>
+  <data name="AboutTab3BodyText12" xml:space="preserve">
+    <value>We're proud of our team. Each member of our team is an expert in his own sphere and each one acknowledges the influence of the individual achievements on the common result. </value>
+  </data>
+  <data name="AboutTab3BodyText13" xml:space="preserve">
+    <value>CUSTOMER FOCUS</value>
+  </data>
+  <data name="AboutTab3BodyText14" xml:space="preserve">
+    <value>We act with commitment to ethics, honesty and compliance in building of collaborative and lasting relationships with our partners and customers.</value>
+  </data>
+  <data name="AboutTab3BodyText15" xml:space="preserve">
+    <value>These values determine behavior standards of both the company and each employee on business market.</value>
+  </data>
+  <data name="AboutTab4Title" xml:space="preserve">
+    <value>Strong foundation in the years ahead</value>
+  </data>
+  <data name="AboutTab4BodyTitle" xml:space="preserve">
+    <value>MANAGING DIRECTOR’S MESSAGE</value>
+  </data>
+  <data name="AboutTab4BodyText1" xml:space="preserve">
+    <value>We serve the purpose to give the manufacturers of pharmaceuticals and medicines an opportunity to conduct innovative business operations on new markets of Eastern Europe and Central Asia.</value>
+  </data>
+  <data name="AboutTab4BodyText2" xml:space="preserve">
+    <value>We use comprehensive approach combining all the processes of marketing and distribution into entire precisely operating business system, which is managed by our company  in close coordination with manufacturer.</value>
+  </data>
+  <data name="AboutTab4BodyText3" xml:space="preserve">
+    <value>We are always eager to establish relationships with manufacturers of pharmaceutical products and medical devices.</value>
+  </data>
+  <data name="AboutTab4BodyText4" xml:space="preserve">
+    <value>We provide complex follow-up support of regulatory processes of all medical and pharmaceutical products as well.</value>
+  </data>
+  <data name="AboutTab4BodyText5" xml:space="preserve">
+    <value>Our team, representative offices network, potential and experience that we have, will always help you in developing your business. We use international strategy for doing business and building partnership relations. Being aware of the peculiarities of perspective markets, which are unknown for you, we can minimize your risks when entering these markets.</value>
+  </data>
+  <data name="AboutTab4BodyText6" xml:space="preserve">
+    <value>SafiMed company helps to develop your business using actual up-to-date business solutions, making your business manageable, favourable, flexible and open on the new territories.</value>
+  </data>
+  <data name="AboutTab4BodyText7" xml:space="preserve">
+    <value>Yours sincerely,</value>
+  </data>
+  <data name="AboutTab4BodyText8" xml:space="preserve">
+    <value>Marina Sheveleva</value>
+  </data>
+  <data name="AboutTab4BodyText9" xml:space="preserve">
+    <value>Managing Director</value>
+  </data>
+  <data name="AboutTab5BodyTitle" xml:space="preserve">
+    <value>OFFICE NETWORK</value>
+  </data>
+  <data name="AboutTab5Title" xml:space="preserve">
+    <value>Intensive development is our primary strategic objective</value>
+  </data>
+  <data name="AboutTab5BodyText1" xml:space="preserve">
+    <value>SafiMed Company Head Office is located in Riga, Latvija. </value>
+  </data>
+  <data name="AboutTab5BodyText2" xml:space="preserve">
+    <value>Company is operating in the territories of the Baltic States (Lithuania, Latvia, Estonia) and CES (Common Economic Space – Belarus, Russian Federation, Armenia, Kazakhstan, Kyrgyzstan) through its Resident Representatives and partner network.</value>
+  </data>
+  <data name="AboutTab5BodyText3" xml:space="preserve">
+    <value>Latvian Centre coordinates operation of regional representatives in all countries of residence. Our company cooperates with European logistic operators, so we can guarantee  warehouse storage according to GDP Standards.</value>
+  </data>
+  <data name="AboutTab5BodyText4" xml:space="preserve">
+    <value>A company's subsidiary is most widly presented in Minsk, Republic of Belarus. Company representatives are involved in registration processes, logistics, they are also coordinating marketing and distribution.</value>
+  </data>
+  <data name="AboutTab5BodyText5" xml:space="preserve">
+    <value>You can request detailed information, get a full company &amp; services presentation, and receive our answers to your questions by</value>
+  </data>
+  <data name="AboutTab5BodyText5Link" xml:space="preserve">
+    <value>contacting us.</value>
+  </data>
+  <data name="CooperationTab1BodyTitle" xml:space="preserve">
+    <value>COOPERATION PRINCIPLES</value>
+  </data>
+  <data name="CooperationTab1BodyText1" xml:space="preserve">
+    <value>SafiMed’s business model for cooperation with manufacturers is based upon exclusive presentation of products in the territory of the Baltic States (Lithuania, Latvia and Estonia) and Eurasian Economic Union (Belarus, Russian Federation, Armenia, Kazakhstan and Kyrgyzstan).</value>
+  </data>
+  <data name="CooperationTab1BodyText2" xml:space="preserve">
+    <value>We offer cooperation to our potential partners using "full support" principle starting from market investigation and finishing the sale and delivery of the product to the customer.</value>
+  </data>
+  <data name="CooperationTab1BodyText3" xml:space="preserve">
+    <value>We act with commitment to ethics and other principles accepted in our clients' and partners' companies.</value>
+  </data>
+  <data name="CooperationTab1BodyTab1" xml:space="preserve">
+    <value>Product registration support</value>
+  </data>
+  <data name="CooperationTab1BodyTab2" xml:space="preserve">
+    <value>Market research and analytics</value>
+  </data>
+  <data name="CooperationTab1BodyTab3" xml:space="preserve">
+    <value>Distribution and sale</value>
+  </data>
+  <data name="CooperationTab1BodyTab4" xml:space="preserve">
+    <value>Marketing strategy and Market Access development and implementation</value>
+  </data>
+  <data name="CooperationTab1Title" xml:space="preserve">
+    <value>Full compliance with the values of our partners</value>
+  </data>
+  <data name="CooperationTab2Title" xml:space="preserve">
+    <value>Data-driven decision making to ensure the best prospects of your company's business</value>
+  </data>
+  <data name="CooperationTab2BodyTitle" xml:space="preserve">
+    <value>CONSULTING</value>
+  </data>
+  <data name="CooperationTab2BodyText1" xml:space="preserve">
+    <value>Market Research</value>
+  </data>
+  <data name="CooperationTab2BodyText2" xml:space="preserve">
+    <value>Using the aspects of business environment, we will perform marketing investigations of the market based on your individual requirements.</value>
+  </data>
+  <data name="CooperationTab2BodyText3" xml:space="preserve">
+    <value>Analytical data in our hands transforms from bare statistics into your powerful decision-making tool.</value>
+  </data>
+  <data name="CooperationTab2BodyText4" xml:space="preserve">
+    <value>Products registration support</value>
+  </data>
+  <data name="CooperationTab2BodyText5" xml:space="preserve">
+    <value>Qualified specialists presenting registration department of our company,  support the registration of your product at the health authorities. We  offer consultations on all regulatory questions as well.</value>
+  </data>
+  <data name="CooperationTab3Title" xml:space="preserve">
+    <value>Making healthcare innovations available</value>
+  </data>
+  <data name="CooperationTab3BodyTitle" xml:space="preserve">
+    <value>MARKETING AND DISTRIBUTION</value>
+  </data>
+  <data name="CooperationTab3BodyText1Part1" xml:space="preserve">
+    <value>Marketing &amp; Commercial Strategy</value>
+  </data>
+  <data name="CooperationTab3BodyText1Part2" xml:space="preserve">
+    <value>Distribution &amp; Sales</value>
+  </data>
+  <data name="CooperationTab3BodyText2" xml:space="preserve">
+    <value>Our core marketing competencies:</value>
+  </data>
+  <data name="CooperationTab3BodyText3" xml:space="preserve">
+    <value>Our specialists from marketing and sales departments, perform marketing research, taking into account manufacturer's needs, and develop commercial strategy and ensure sales on the new markets.</value>
+  </data>
+  <data name="CooperationTab4Title" xml:space="preserve">
+    <value>Responsibility-Expertise-Reliability</value>
+  </data>
+  <data name="CooperationTab4BodyTitle" xml:space="preserve">
+    <value>OUR CORE BENEFITS</value>
+  </data>
+  <data name="CooperationTab4BodyText1" xml:space="preserve">
+    <value>EXPERIENCED TEAM</value>
+  </data>
+  <data name="CooperationTab4BodyText2" xml:space="preserve">
+    <value>Our staff with previous experience in national and multinational companies offers collective expertise in practical medicine, consulting, registration, marketing and distribution. This allows us achieve the goals set by our partners.</value>
+  </data>
+  <data name="CooperationTab4BodyText3" xml:space="preserve">
+    <value>EFFICIENT NETWORK</value>
+  </data>
+  <data name="CooperationTab4BodyText4" xml:space="preserve">
+    <value>The efficiency is reached by activity of our regional managers and partners, and by strong established distribution network.</value>
+  </data>
+  <data name="CooperationTab4BodyText5" xml:space="preserve">
+    <value>COMPLIANCE</value>
+  </data>
+  <data name="CooperationTab4BodyText6" xml:space="preserve">
+    <value>We act with commitment to ethics and other principles accepted in our clients' and partners' companies.</value>
+  </data>
+  <data name="CooperationTab4BodyText7" xml:space="preserve">
+    <value>COMPREHENSIVE BUSINESS SOLUTIONS</value>
+  </data>
+  <data name="CooperationTab4BodyText8" xml:space="preserve">
+    <value>We provide integrated approach taking into account customer's individual needs. We pride ourselves on the quality of service rendered to our partners and clients.</value>
+  </data>
+  <data name="CooperationTab4BodyText9" xml:space="preserve">
+    <value>RISK PREVENTION</value>
+  </data>
+  <data name="CooperationTab4BodyText10" xml:space="preserve">
+    <value>Since SafiMed’s insurance policies against financial (as well as logistical) risks are EU-validated, our partners encounter no technical challenges and enjoy all the prescribed guarantees.</value>
+  </data>
+  <data name="ContactsTitle" xml:space="preserve">
+    <value>YOUR RELIABLE PARTNER IN HEALTHCARE BUSINESS DEVELOPMENT</value>
+  </data>
+  <data name="ContactsBodyTitle" xml:space="preserve">
+    <value>CONTACTS</value>
+  </data>
+  <data name="ContactsBodyText1" xml:space="preserve">
+    <value>Head Office in Latvia:</value>
+  </data>
+  <data name="ContactsBodyText2" xml:space="preserve">
+    <value>«SafiMed» SIA</value>
+  </data>
+  <data name="ContactsBodyText3" xml:space="preserve">
+    <value>Marketing and Distribution of medical products</value>
+  </data>
+  <data name="ContactsBodyText4" xml:space="preserve">
+    <value>Company code: ххххххххххххх</value>
+  </data>
+  <data name="ContactsBodyText5" xml:space="preserve">
+    <value>Address: Krišjāņa Valdemāra iela 18-7, Rīga, Latvia LV-1010</value>
+  </data>
+  <data name="ContactsBodyText6" xml:space="preserve">
+    <value>Mobile (LV): +‎371 24 86 24 22</value>
+  </data>
+  <data name="ContactsBodyText7" xml:space="preserve">
+    <value>Phone (LV): ‎+371 24 86 24 22</value>
+  </data>
+  <data name="ContactsBodyText8" xml:space="preserve">
+    <value>e-mail:</value>
+  </data>
+  <data name="MainSlider1Text" xml:space="preserve">
+    <value>PHARMACEUTICALS</value>
+  </data>
+  <data name="MainSlider2Text" xml:space="preserve">
+    <value>BIOCHEMICAL PRODUCTS</value>
+  </data>
+  <data name="MainSlider3Text" xml:space="preserve">
+    <value>PERSONAL HEALTH &amp; BEAUTY CARE</value>
+  </data>
+  <data name="MainSlider4Text" xml:space="preserve">
+    <value>Making healthcare innovations available</value>
+  </data>
+  <data name="MainSlider5Text" xml:space="preserve">
+    <value>MEDICAL DEVICES</value>
+  </data>
+  <data name="MainSlider1Description" xml:space="preserve">
+    <value>I propose to make here what some information with a brief description and a possible transition to what a tab</value>
+  </data>
+  <data name="ContactFormComp" xml:space="preserve">
+    <value>Company</value>
+  </data>
+  <data name="ContactFormDesc" xml:space="preserve">
+    <value>You can contact us using the form below. All fields are required.</value>
+  </data>
+  <data name="ContactFormEMail" xml:space="preserve">
+    <value>E-Mail</value>
+  </data>
+  <data name="ContactFormMail" xml:space="preserve">
+    <value>Message</value>
+  </data>
+  <data name="ContactFormName" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="ContactFormPhone" xml:space="preserve">
+    <value>Phone</value>
+  </data>
+  <data name="ContactFormSend" xml:space="preserve">
+    <value>Send</value>
+  </data>
+  <data name="ContactFormTitle" xml:space="preserve">
+    <value>Feedback form</value>
+  </data>
+  <data name="Required" xml:space="preserve">
+    <value>The field is required.</value>
+  </data>
+  <data name="InvalidEmail" xml:space="preserve">
+    <value>Invalid Email Address</value>
+  </data>
+  <data name="MessageSendError" xml:space="preserve">
+    <value>Sending of message failed!</value>
+  </data>
+  <data name="MessageSendSuccess" xml:space="preserve">
+    <value>Message successfully sended!</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>info@safi-med.com</value>
+  </data>
+  <data name="FooterRights" xml:space="preserve">
+    <value>All rights reserved.</value>
+  </data>
+</root>

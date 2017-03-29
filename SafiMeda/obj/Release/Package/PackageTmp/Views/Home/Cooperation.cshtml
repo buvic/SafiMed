@@ -1,0 +1,203 @@
+﻿@{
+    ViewBag.Title = @ViewRes.Resource.TitleCooperation;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container pages-content">
+    <div class="col-md-6">
+        @{
+            if (ViewBag.ActiveTab == "principles")
+            {
+                <img data="#principles" class="pages-content-image pull-left" src="~/Content/Styles/Images/principles.png" />
+            }
+            else
+            {
+                <img data="#principles" class="pages-content-image pull-left hide" src="~/Content/Styles/Images/principles.png" />
+            }
+            if (ViewBag.ActiveTab == "consalting")
+            {
+                <img data="#consalting" class="pages-content-image pull-left" src="~/Content/Styles/Images/consalting.png" />
+            }
+            else
+            {
+                <img data="#consalting" class="pages-content-image pull-left hide" src="~/Content/Styles/Images/consalting.png" />
+            }
+            if (ViewBag.ActiveTab == "marketing")
+            {
+                <img data="#marketing" class="pages-content-image pull-left" src="~/Content/Styles/Images/marketing.png" />
+            }
+            else
+            {
+                <img data="#marketing" class="pages-content-image pull-left hide" src="~/Content/Styles/Images/marketing.png" />
+            }
+            if (ViewBag.ActiveTab == "benefits")
+            {
+                <img data="#benefits" class="pages-content-image pull-left" src="~/Content/Styles/Images/benefits.png" />
+            }
+            else
+            {
+                <img data="#benefits" class="pages-content-image pull-left hide" src="~/Content/Styles/Images/benefits.png" />
+            }
+        }
+
+    </div>
+    <div class="col-md-6">
+        <div class="tab-text">
+            @{
+                if (ViewBag.ActiveTab == "principles")
+                {
+                    <h3 data="#principles" class="bold">@ViewRes.Resource.CooperationTab1Title</h3>
+                }
+                else
+                {
+                    <h3 data="#principles" class="bold hide">@ViewRes.Resource.CooperationTab1Title</h3>
+                }
+                if (ViewBag.ActiveTab == "consalting")
+                {
+                    <h3 data="#consalting" class="bold">@ViewRes.Resource.CooperationTab2Title</h3>
+                }
+                else
+                {
+                    <h3 data="#consalting" class="bold hide">@ViewRes.Resource.CooperationTab2Title</h3>
+                }
+                if (ViewBag.ActiveTab == "marketing")
+                {
+                    <h3 data="#marketing" class="bold">@ViewRes.Resource.CooperationTab3Title</h3>
+                }
+                else
+                {
+                    <h3 data="#marketing" class="bold hide">@ViewRes.Resource.CooperationTab3Title</h3>
+                }
+                if (ViewBag.ActiveTab == "benefits")
+                {
+                    <h3 data="#benefits" class="bold">@ViewRes.Resource.CooperationTab4Title</h3>
+                }
+                else
+                {
+                    <h3 data="#benefits" class="bold hide">@ViewRes.Resource.CooperationTab4Title</h3>
+                }
+            }
+        </div>
+    </div>
+</div>
+
+<div class="container tabs-animated">
+    <div class="col-md-4">
+        <!-- required for floating -->
+        <!-- Nav tabs -->
+        <ul class="nav nav-tabs tabs-left">
+            @{
+                if (ViewBag.ActiveTab == "principles")
+                {
+                    <li class="active"><a href="#principles" data-toggle="tab" role="tab" onclick="javascript:setTabText(this);">@ViewRes.Resource.CooperationTab1BodyTitle</a></li>
+                }
+                else
+                {
+                    <li><a href="#principles" data-toggle="tab" role="tab" onclick="javascript:setTabText(this);">@ViewRes.Resource.CooperationTab1BodyTitle</a></li>
+                }
+                if (ViewBag.ActiveTab == "consalting")
+                {
+                    <li class="active"><a href="#consalting" data-toggle="tab" role="tab" onclick="javascript:setTabText(this);">@ViewRes.Resource.CooperationTab2BodyTitle</a></li>
+                }
+                else
+                {
+                    <li><a href="#consalting" data-toggle="tab" role="tab" onclick="javascript:setTabText(this);">@ViewRes.Resource.CooperationTab2BodyTitle</a></li>
+                }
+                if (ViewBag.ActiveTab == "marketing")
+                {
+                    <li class="active"><a href="#marketing" data-toggle="tab" role="tab" onclick="javascript:setTabText(this);">@ViewRes.Resource.CooperationTab3BodyTitle</a></li>
+                }
+                else
+                {
+                    <li><a href="#marketing" data-toggle="tab" role="tab" onclick="javascript:setTabText(this);">@ViewRes.Resource.CooperationTab3BodyTitle</a></li>
+                }
+                if (ViewBag.ActiveTab == "benefits")
+                {
+                    <li class="active"><a href="#benefits" data-toggle="tab" role="tab" onclick="javascript:setTabText(this);">@ViewRes.Resource.CooperationTab4BodyTitle</a></li>
+                }
+                else
+                {
+                    <li><a href="#benefits" data-toggle="tab" role="tab" onclick="javascript:setTabText(this);">@ViewRes.Resource.CooperationTab4BodyTitle</a></li>
+                }
+            }
+
+        </ul>
+    </div>
+
+    <div class="col-md-8">
+        <!-- Tab panes -->
+        <div class="tab-content">
+
+            <div @if (ViewBag.ActiveTab == "principles") { <text> class="tab-pane active" </text> } else { <text> class="tab-pane fade" </text>  } id="principles">
+
+                <h3 class="bold">@ViewRes.Resource.CooperationTab1BodyTitle</h3>
+                <div class="blue-color-text">
+                    <p>@ViewRes.Resource.CooperationTab1BodyText1</p>
+                    <p>@ViewRes.Resource.CooperationTab1BodyText2</p>
+                    <p>@ViewRes.Resource.CooperationTab1BodyText3</p>
+
+                    @if (System.Threading.Thread.CurrentThread.CurrentCulture.Name == "ru-RU")
+                    {
+                        <div class="diagram">
+                            <img src="~/Content/Styles/Images/diagramm-rus.png" />
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="diagram">
+                            <img src="~/Content/Styles/Images/diagramm-en.png" />
+                        </div>
+                    }
+
+                </div>
+            </div>
+
+            <div @if (ViewBag.ActiveTab == "consalting") { <text> class="tab-pane active" </text> } else { <text> class="tab-pane fade" </text>   } id="consalting">
+                <h3 class="bold">@ViewRes.Resource.CooperationTab2BodyTitle</h3>
+                <div class="blue-color-text">
+                    <p>@ViewRes.Resource.CooperationTab2BodyText1</p>
+                    <p>@ViewRes.Resource.CooperationTab2BodyText2</p>
+                    <p>@ViewRes.Resource.CooperationTab2BodyText3</p>
+                    <p>@ViewRes.Resource.CooperationTab2BodyText4</p>
+                    <p>@ViewRes.Resource.CooperationTab2BodyText5</p>
+                </div>
+            </div>
+
+            <div @if (ViewBag.ActiveTab == "marketing") { <text> class="tab-pane active" </text> } else { <text> class="tab-pane fade" </text>     } id="marketing">
+                <h3 class="bold">@ViewRes.Resource.CooperationTab3BodyTitle</h3>
+                <div class="blue-color-text">
+                    <ul>
+                        <li>
+                            @ViewRes.Resource.CooperationTab3BodyText1Part1
+                        </li>
+                        <li>
+                            @ViewRes.Resource.CooperationTab3BodyText1Part2
+                        </li>
+                    </ul>
+                    <p>@ViewRes.Resource.CooperationTab3BodyText2</p>
+                    <p>@ViewRes.Resource.CooperationTab3BodyText3</p>
+                </div>
+            </div>
+
+            <div @if (ViewBag.ActiveTab == "benefits") { <text> class="tab-pane active" </text> } else { <text> class="tab-pane fade" </text>     } id="benefits">
+                <h3 class="bold">@ViewRes.Resource.CooperationTab4BodyTitle</h3>
+                <div class="blue-color-text">
+                    <p class="bold">@ViewRes.Resource.CooperationTab4BodyText1</p>
+                    <p>@ViewRes.Resource.CooperationTab4BodyText2</p>
+                    <p class="bold">@ViewRes.Resource.CooperationTab4BodyText3</p>
+                    <p>@ViewRes.Resource.CooperationTab4BodyText4</p>
+                    <p class="bold">@ViewRes.Resource.CooperationTab4BodyText5</p>
+                    <p>@ViewRes.Resource.CooperationTab4BodyText6</p>
+                    <p class="bold">@ViewRes.Resource.CooperationTab4BodyText7</p>
+                    <p>@ViewRes.Resource.CooperationTab4BodyText8</p>
+                    <p class="bold">@ViewRes.Resource.CooperationTab4BodyText9</p>
+                    <p>@ViewRes.Resource.CooperationTab4BodyText10</p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="clearfix"></div>
+
+</div>

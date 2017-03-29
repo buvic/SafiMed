@@ -1,0 +1,221 @@
+﻿html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 100px;
+    background: #EBF1FB;
+    min-width: 460px;
+    width: auto !important;
+    width: 460px;
+}
+
+.footer {
+    background-color: #1F3AFE;
+    color: white;
+    border-color: #e7e7e7;
+    border: 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+}
+
+.big-logo {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 150px;
+    height: 55px;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1024px;
+    }
+}
+
+@media (min-width: 600px) {
+    .footer {
+        height: 50px;
+    }
+    body {
+        margin-bottom: 70px;
+    }
+}
+
+
+@media (min-width: 992px) {
+
+    .big-logo {
+        margin-top: 18px;
+        margin-bottom: -18px;
+        width: 240px;
+        height: 87px;
+    }
+}
+
+.footer-menu {
+    background: #b3d3f6;
+}
+
+.slider-text {
+    background: rgba(235, 241,251, 0.6);
+}
+
+    .slider-text .blue-color-text {
+        margin: 5px;
+    }
+
+.line-header {
+    border-top: 5px solid #1F3AFE;
+}
+
+.lang-selector {
+    cursor: pointer;
+}
+
+.pages-content {
+    background: rgb(60,115,216); /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(left,rgba(120,136,254,0),rgba(31,58,254,1)); /*Safari 5.1-6*/
+    background: -o-linear-gradient(right,rgba(120,136,254,0),rgba(31,58,254,1)); /*Opera 11.1-12*/
+    background: -moz-linear-gradient(right,rgba(120,136,254,0),rgba(31,58,254,1)); /*Fx 3.6-15*/
+    background: linear-gradient(to right, rgba(120,136,254,0), rgba(31,58,254,1)); /*Standard*/
+}
+
+.pages-content-image {
+    margin: 20px 0;
+}
+
+.contact-image {
+    width: 480px;
+    height: 174px;
+    margin: 20px 0;
+}
+
+.pages-content-table {
+    width: 100%;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+.tab-text {
+    margin-top: 80px;
+}
+
+.diagram {
+    text-align: center;
+}
+
+/*NAV BAR*/
+
+.navbar-default {
+    border: 0;
+    margin-bottom: 0;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #1F3AFE;
+}
+
+    .navbar-default .navbar-nav > li > a:hover,
+    .navbar-default .navbar-nav > li > a:focus {
+        color: #555555;
+        background-color: #e7e7e7;
+    }
+
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+    color: white;
+    background-color: #1F3AFE;
+}
+
+.nav > li > a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    font-size: large;
+}
+
+
+/*TEXT CSS*/
+
+.blue-color-text {
+    color: #1F3AFE;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+/*TABS CSS*/
+
+.tabs-left, .tabs-right {
+    border-bottom: none;
+    padding-top: 2px;
+}
+
+.tabs-left {
+    border-right: 1px solid #ddd;
+}
+
+.tabs-right {
+    border-left: 1px solid #ddd;
+}
+
+    .tabs-left > li, .tabs-right > li {
+        float: none;
+        margin-bottom: 2px;
+    }
+
+.tabs-left > li {
+    margin-right: -1px;
+}
+
+.tabs-right > li {
+    margin-left: -1px;
+}
+
+.tabs-left > li.active > a,
+.tabs-left > li.active > a:hover,
+.tabs-left > li.active > a:focus {
+    border-bottom-color: #ddd;
+    border-right-color: transparent;
+}
+
+.tabs-right > li.active > a,
+.tabs-right > li.active > a:hover,
+.tabs-right > li.active > a:focus {
+    border-bottom: 1px solid #ddd;
+    border-left-color: transparent;
+}
+
+.tabs-left > li > a {
+    border-radius: 4px 0 0 4px;
+    margin-right: 0;
+    display: block;
+}
+
+.tabs-right > li > a {
+    border-radius: 0 4px 4px 0;
+    margin-right: 0;
+}
+
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea,
+.alert-message {
+    max-width: 280px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}

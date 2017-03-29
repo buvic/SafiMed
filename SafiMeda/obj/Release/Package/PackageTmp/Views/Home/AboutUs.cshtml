@@ -1,0 +1,141 @@
+﻿@{
+    ViewBag.Title = ViewRes.Resource.TitleAbout;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="pages-content">
+    <div class="container">
+        <div class="col-md-6">
+            <img data="#info" class="pages-content-image pull-left" src="~/Content/Styles/Images/information.png" />
+            <img data="#work" class="pages-content-image pull-left hide" src="~/Content/Styles/Images/activities.png" />
+            <img data="#mission" class="pages-content-image pull-left hide" src="~/Content/Styles/Images/corporate.png" />
+            <img data="#director" class="pages-content-image pull-left hide" src="~/Content/Styles/Images/director.png" />
+            <img data="#network" class="pages-content-image pull-left hide" src="~/Content/Styles/Images/network.png" />
+        </div>
+        <div class="col-md-6">
+            <div class="tab-text">
+                <h3 data="#info" class="bold">@ViewRes.Resource.AboutTab1Title</h3>
+                <h3 data="#work" class="bold hide">@ViewRes.Resource.AboutTab2Title</h3>
+                <h3 data="#mission" class="bold hide">@ViewRes.Resource.AboutTab3Title</h3>
+                <h3 data="#director" class="bold hide">@ViewRes.Resource.AboutTab4Title</h3>
+                <h3 data="#network" class="bold hide">@ViewRes.Resource.AboutTab5Title</h3>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container tabs-animated">
+
+    <div class="col-md-4">
+        <!-- required for floating -->
+        <!-- Nav tabs -->
+        <ul class="nav nav-tabs tabs-left">
+            <li class="active"><a href="#info" data-toggle="tab" role="tab" onclick="javascript:setTabText(this);">@ViewRes.Resource.AboutTab1BodyTitle</a></li>
+            <li><a href="#work" data-toggle="tab" role="tab" onclick="javascript:setTabText(this);">@ViewRes.Resource.AboutTab2BodyTitle</a></li>
+            <li><a href="#mission" data-toggle="tab" role="tab" onclick="javascript:setTabText(this);">@ViewRes.Resource.AboutTab3BodyTitle</a></li>
+            <li><a href="#director" data-toggle="tab" role="tab" onclick="javascript:setTabText(this);">@ViewRes.Resource.AboutTab4BodyTitle</a></li>
+            <li><a href="#network" data-toggle="tab" role="tab" onclick="javascript:setTabText(this);">@ViewRes.Resource.AboutTab5BodyTitle</a></li>
+        </ul>
+    </div>
+
+    <div class="col-md-8">
+        <!-- Tab panes -->
+        <div class="tab-content">
+
+            <div class="tab-pane fade in active" id="info">
+                <h3 class="bold">@ViewRes.Resource.AboutTab1BodyTitle</h3>
+                <div class="blue-color-text">
+                    <p class="blue-color-text">@ViewRes.Resource.AboutTab1BodyText1</p>
+                    <p>@ViewRes.Resource.AboutTab1BodyText2</p>
+                    <p>@ViewRes.Resource.AboutTab1BodyText3</p>
+                    <p>@ViewRes.Resource.AboutTab1BodyText4</p>
+                    <p>@ViewRes.Resource.AboutTab1BodyText5</p>
+                    <br/>
+                    <p class="bold">@ViewRes.Resource.AboutTab1BodyText6 <a href="@Url.Action("Contact", "Home")">@ViewRes.Resource.AboutTab1BodyText6Link</a></p>
+                </div>
+            </div>
+
+            <div class="tab-pane fade" id="work">
+                <h3 class="bold">@ViewRes.Resource.AboutTab2BodyTitle</h3>
+                <div class="blue-color-text">
+                    <p>@ViewRes.Resource.AboutTab2BodyText1</p>
+                    <p>@ViewRes.Resource.AboutTab2BodyText2</p>
+                    <ul>
+                        <li>
+                            @ViewRes.Resource.AboutTab2BodyText2Part1
+                        </li>
+                        <li>
+                            @ViewRes.Resource.AboutTab2BodyText2Part2
+                        </li>
+                    </ul>
+                    <p>@ViewRes.Resource.AboutTab2BodyText3</p>
+                    <ul>
+                        <li>
+                            @ViewRes.Resource.AboutTab2BodyText3Part1
+                        </li>
+                        <li>
+                            @ViewRes.Resource.AboutTab2BodyText3Part2
+                        </li>
+                    </ul>
+                    <p>@ViewRes.Resource.AboutTab1BodyText4</p>
+                    <p>@ViewRes.Resource.AboutTab1BodyText5</p>
+                    <br/>
+                    <p class="bold">@ViewRes.Resource.AboutTab1BodyText6 <a href="@Url.Action("Contact", "Home")">@ViewRes.Resource.AboutTab1BodyText6Link</a></p>
+                </div>
+            </div>
+
+            <div class="tab-pane fade" id="mission">
+                <h3 class="bold">@ViewRes.Resource.AboutTab3BodyText1</h3>
+                <p class="blue-color-text">@ViewRes.Resource.AboutTab1BodyText2</p>
+                <h3 class="bold">@ViewRes.Resource.AboutTab3BodyText3</h3>
+                <p class="blue-color-text">@ViewRes.Resource.AboutTab1BodyText4</p>
+                <h3 class="bold">@ViewRes.Resource.AboutTab3BodyText5</h3>
+                <p class="blue-color-text">@ViewRes.Resource.AboutTab3BodyText6</p>
+                <p>@ViewRes.Resource.AboutTab3BodyText7</p>
+                <p class="blue-color-text">@ViewRes.Resource.AboutTab3BodyText8</p>
+                <p>@ViewRes.Resource.AboutTab3BodyText9</p>
+                <p class="blue-color-text">@ViewRes.Resource.AboutTab3BodyText10</p>
+                <p>@ViewRes.Resource.AboutTab3BodyText11</p>
+                <p class="blue-color-text">@ViewRes.Resource.AboutTab3BodyText12</p>
+                <p>@ViewRes.Resource.AboutTab3BodyText13</p>
+                <p class="blue-color-text">@ViewRes.Resource.AboutTab3BodyText14</p>
+                <p class="blue-color-text bold">@ViewRes.Resource.AboutTab3BodyText15</p>
+            </div>
+
+            <div class="tab-pane fade" id="director">
+                <h3 class="bold">@ViewRes.Resource.AboutTab4BodyTitle</h3>
+                <div class="blue-color-text">
+                    <p>@ViewRes.Resource.AboutTab4BodyText1</p>
+                    <p>@ViewRes.Resource.AboutTab4BodyText2</p>
+                    <p>@ViewRes.Resource.AboutTab4BodyText3</p>
+                    <p>@ViewRes.Resource.AboutTab4BodyText4</p>
+                    <p>@ViewRes.Resource.AboutTab4BodyText5</p>
+                    <p>@ViewRes.Resource.AboutTab4BodyText6</p>
+                    <br />
+                    <p>@ViewRes.Resource.AboutTab4BodyText7</p>
+                    <p class="bold">@ViewRes.Resource.AboutTab4BodyText8</p>
+                    <br />
+                    <p>@ViewRes.Resource.AboutTab4BodyText9</p>
+                    <p>@ViewRes.Resource.CopyrightFooter</p>
+                </div>
+
+
+            </div>
+
+            <div class="tab-pane fade" id="network">
+                <h3 class="bold">@ViewRes.Resource.AboutTab5BodyTitle</h3>
+                <div class="blue-color-text">
+                    <p>@ViewRes.Resource.AboutTab5BodyText1</p>
+                    <p>@ViewRes.Resource.AboutTab5BodyText2</p>
+                    <p>@ViewRes.Resource.AboutTab5BodyText3</p>
+                    <p>@ViewRes.Resource.AboutTab5BodyText4</p>
+                    <br/>
+                    <p class="bold">@ViewRes.Resource.AboutTab5BodyText5 <a href="@Url.Action("Contact", "Home")">@ViewRes.Resource.AboutTab5BodyText5Link</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="clearfix"></div>
+
+</div>

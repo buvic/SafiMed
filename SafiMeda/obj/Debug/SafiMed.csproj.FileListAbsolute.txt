@@ -1,0 +1,474 @@
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\SafiMed.dll.config
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\SafiMed.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\SafiMed.pdb
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\ru\SafiMed.resources.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Antlr3.Runtime.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\EntityFramework.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\EntityFramework.SqlServer.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Core.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.Owin.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Cookies.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Facebook.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Google.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.OAuth.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Twitter.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.Web.Infrastructure.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Newtonsoft.Json.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Owin.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\System.Net.Http.Formatting.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\System.Web.Helpers.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\System.Web.Http.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\System.Web.Http.Owin.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\System.Web.Http.WebHost.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\System.Web.Mvc.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\System.Web.Optimization.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\System.Web.Razor.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\System.Web.WebPages.Deployment.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\System.Web.WebPages.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\System.Web.WebPages.Razor.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\WebGrease.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Newtonsoft.Json.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\System.Net.Http.Formatting.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\System.Web.Helpers.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\System.Web.Http.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\System.Web.Http.WebHost.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\System.Web.Mvc.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\System.Web.Optimization.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\System.Web.Razor.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\System.Web.WebPages.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\System.Web.WebPages.Deployment.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\System.Web.WebPages.Razor.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Antlr3.Runtime.pdb
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\EntityFramework.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\EntityFramework.SqlServer.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Core.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.Owin.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Facebook.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Cookies.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.OAuth.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Google.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Twitter.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\bin\System.Web.Http.Owin.xml
+D:\freework\SafiMed\SafiMeda\SafiMeda\obj\Debug\SafiMed.Resources.Resource.resources
+D:\freework\SafiMed\SafiMeda\SafiMeda\obj\Debug\SafiMed.Resources.Resource.ru.resources
+D:\freework\SafiMed\SafiMeda\SafiMeda\obj\Debug\SafiMed.csproj.GenerateResource.Cache
+D:\freework\SafiMed\SafiMeda\SafiMeda\obj\Debug\ru\SafiMed.resources.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\obj\Debug\SafiMed.dll
+D:\freework\SafiMed\SafiMeda\SafiMeda\obj\Debug\SafiMed.pdb
+C:\Work\Safi\SafiMeda\SafiMeda\bin\SafiMed.dll.config
+C:\Work\Safi\SafiMeda\SafiMeda\bin\SafiMed.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\SafiMed.pdb
+C:\Work\Safi\SafiMeda\SafiMeda\bin\ru\SafiMed.resources.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Antlr3.Runtime.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\EntityFramework.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\EntityFramework.SqlServer.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.Owin.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Google.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.Web.Infrastructure.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Newtonsoft.Json.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Owin.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\System.Net.Http.Formatting.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\System.Web.Helpers.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\System.Web.Http.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\System.Web.Http.Owin.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\System.Web.Http.WebHost.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\System.Web.Mvc.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\System.Web.Optimization.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\System.Web.Razor.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\System.Web.WebPages.Deployment.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\System.Web.WebPages.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\System.Web.WebPages.Razor.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\WebGrease.dll
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Newtonsoft.Json.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\System.Net.Http.Formatting.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\System.Web.Helpers.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\System.Web.Http.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\System.Web.Http.WebHost.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\System.Web.Mvc.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\System.Web.Optimization.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\System.Web.Razor.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\System.Web.WebPages.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\System.Web.WebPages.Deployment.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\System.Web.WebPages.Razor.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Antlr3.Runtime.pdb
+C:\Work\Safi\SafiMeda\SafiMeda\bin\EntityFramework.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\EntityFramework.SqlServer.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.Owin.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Google.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Work\Safi\SafiMeda\SafiMeda\bin\System.Web.Http.Owin.xml
+C:\Work\Safi\SafiMeda\SafiMeda\obj\Debug\SafiMed.Resources.Resource.resources
+C:\Work\Safi\SafiMeda\SafiMeda\obj\Debug\SafiMed.Resources.Resource.ru.resources
+C:\Work\Safi\SafiMeda\SafiMeda\obj\Debug\SafiMed.csproj.GenerateResource.Cache
+C:\Work\Safi\SafiMeda\SafiMeda\obj\Debug\ru\SafiMed.resources.dll
+C:\Work\Safi\SafiMeda\SafiMeda\obj\Debug\SafiMed.dll
+C:\Work\Safi\SafiMeda\SafiMeda\obj\Debug\SafiMed.pdb
+C:\Work\Safi\SafiMeda\SafiMeda\obj\Debug\SafiMed.csprojResolveAssemblyReference.cache
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\SafiMed.dll.config
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\SafiMed.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\SafiMed.pdb
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\ru\SafiMed.resources.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Antlr3.Runtime.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\EntityFramework.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\EntityFramework.SqlServer.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Core.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.Owin.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Cookies.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Facebook.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Google.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.OAuth.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Twitter.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.Web.Infrastructure.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Newtonsoft.Json.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Owin.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\System.Net.Http.Formatting.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\System.Web.Helpers.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\System.Web.Http.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\System.Web.Http.Owin.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\System.Web.Http.WebHost.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\System.Web.Mvc.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\System.Web.Optimization.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\System.Web.Razor.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\System.Web.WebPages.Deployment.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\System.Web.WebPages.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\System.Web.WebPages.Razor.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\WebGrease.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Newtonsoft.Json.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\System.Net.Http.Formatting.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\System.Web.Helpers.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\System.Web.Http.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\System.Web.Http.WebHost.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\System.Web.Mvc.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\System.Web.Optimization.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\System.Web.Razor.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\System.Web.WebPages.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\System.Web.WebPages.Deployment.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\System.Web.WebPages.Razor.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Antlr3.Runtime.pdb
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\EntityFramework.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\EntityFramework.SqlServer.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Core.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.Owin.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Facebook.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Cookies.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.OAuth.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Google.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Twitter.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\bin\System.Web.Http.Owin.xml
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\obj\Debug\SafiMed.Resources.Resource.resources
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\obj\Debug\SafiMed.Resources.Resource.ru.resources
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\obj\Debug\SafiMed.csproj.GenerateResource.Cache
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\obj\Debug\ru\SafiMed.resources.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\obj\Debug\SafiMed.dll
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\obj\Debug\SafiMed.pdb
+D:\freework\SafiMed\From work\SafiMeda\SafiMeda\obj\Debug\SafiMed.csprojResolveAssemblyReference.cache
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\SafiMed.dll.config
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\SafiMed.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\SafiMed.pdb
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\ru\SafiMed.resources.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Antlr3.Runtime.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\EntityFramework.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\EntityFramework.SqlServer.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.Owin.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Google.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.Web.Infrastructure.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Newtonsoft.Json.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Owin.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\System.Net.Http.Formatting.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\System.Web.Helpers.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\System.Web.Http.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\System.Web.Http.Owin.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\System.Web.Http.WebHost.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\System.Web.Mvc.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\System.Web.Optimization.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\System.Web.Razor.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\System.Web.WebPages.Deployment.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\System.Web.WebPages.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\System.Web.WebPages.Razor.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\WebGrease.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Newtonsoft.Json.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\System.Net.Http.Formatting.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\System.Web.Helpers.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\System.Web.Http.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\System.Web.Http.WebHost.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\System.Web.Mvc.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\System.Web.Optimization.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\System.Web.Razor.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\System.Web.WebPages.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\System.Web.WebPages.Deployment.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\System.Web.WebPages.Razor.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Antlr3.Runtime.pdb
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\EntityFramework.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\EntityFramework.SqlServer.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.Owin.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Google.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\bin\System.Web.Http.Owin.xml
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\obj\Debug\SafiMed.Resources.Resource.resources
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\obj\Debug\SafiMed.Resources.Resource.ru.resources
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\obj\Debug\SafiMed.csproj.GenerateResource.Cache
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\obj\Debug\ru\SafiMed.resources.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\obj\Debug\SafiMed.dll
+C:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\obj\Debug\SafiMed.pdb
+c:\Work\Safi\SafiMeda\SafiMeda\SafiMeda\obj\Debug\SafiMed.csprojResolveAssemblyReference.cache
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\SafiMed.dll.config
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\SafiMed.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\SafiMed.pdb
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\ru\SafiMed.resources.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Antlr3.Runtime.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\EntityFramework.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\EntityFramework.SqlServer.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Core.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Cookies.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Facebook.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Google.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.OAuth.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Twitter.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Web.Infrastructure.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Newtonsoft.Json.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Owin.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\System.Net.Http.Formatting.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\System.Web.Helpers.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\System.Web.Http.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\System.Web.Http.Owin.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\System.Web.Http.WebHost.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\System.Web.Mvc.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\System.Web.Optimization.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\System.Web.Razor.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\System.Web.WebPages.Deployment.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\System.Web.WebPages.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\System.Web.WebPages.Razor.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\WebGrease.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Newtonsoft.Json.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\System.Net.Http.Formatting.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\System.Web.Helpers.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\System.Web.Http.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\System.Web.Http.WebHost.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\System.Web.Mvc.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\System.Web.Optimization.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\System.Web.Razor.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\System.Web.WebPages.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\System.Web.WebPages.Deployment.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\System.Web.WebPages.Razor.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Antlr3.Runtime.pdb
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\EntityFramework.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\EntityFramework.SqlServer.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Core.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Facebook.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Cookies.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.OAuth.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Google.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Twitter.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\bin\System.Web.Http.Owin.xml
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\obj\Debug\SafiMed.Resources.Resource.resources
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\obj\Debug\SafiMed.Resources.Resource.ru.resources
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\obj\Debug\SafiMed.csproj.GenerateResource.Cache
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\obj\Debug\ru\SafiMed.resources.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\obj\Debug\SafiMed.dll
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\obj\Debug\SafiMed.pdb
+D:\freework\SafiMed\Last Version\SafiMeda\SafiMeda\obj\Debug\SafiMed.csprojResolveAssemblyReference.cache
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\SafiMed.dll.config
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\SafiMed.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\SafiMed.pdb
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\ru\SafiMed.resources.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Antlr3.Runtime.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\EntityFramework.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\EntityFramework.SqlServer.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Google.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Web.Infrastructure.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Newtonsoft.Json.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Owin.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Net.Http.Formatting.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Helpers.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Http.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Http.Owin.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Http.WebHost.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Mvc.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Optimization.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Razor.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.WebPages.Deployment.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.WebPages.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.WebPages.Razor.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\WebGrease.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Newtonsoft.Json.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Net.Http.Formatting.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Helpers.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Http.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Http.WebHost.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Mvc.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Optimization.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Razor.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.WebPages.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.WebPages.Deployment.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.WebPages.Razor.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Antlr3.Runtime.pdb
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\EntityFramework.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\EntityFramework.SqlServer.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Google.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Http.Owin.xml
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\obj\Debug\SafiMed.Resources.Resource.resources
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\obj\Debug\SafiMed.Resources.Resource.ru.resources
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\obj\Debug\SafiMed.csproj.GenerateResource.Cache
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\obj\Debug\ru\SafiMed.resources.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\obj\Debug\SafiMed.dll
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\obj\Debug\SafiMed.pdb
+C:\Work\Safi\safi-med\Last Version\SafiMeda\SafiMeda\obj\Debug\SafiMed.csprojResolveAssemblyReference.cache
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\SafiMed.dll.config
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\SafiMed.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\SafiMed.pdb
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\ru\SafiMed.resources.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Antlr3.Runtime.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\EntityFramework.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\EntityFramework.SqlServer.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Core.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Cookies.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Facebook.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Google.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.OAuth.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Twitter.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Web.Infrastructure.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Newtonsoft.Json.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Owin.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Net.Http.Formatting.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Helpers.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Http.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Http.Owin.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Http.WebHost.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Mvc.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Optimization.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Razor.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.WebPages.Deployment.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.WebPages.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.WebPages.Razor.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\WebGrease.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Newtonsoft.Json.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Net.Http.Formatting.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Helpers.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Http.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Http.WebHost.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Mvc.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Optimization.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Razor.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.WebPages.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.WebPages.Deployment.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.WebPages.Razor.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Antlr3.Runtime.pdb
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\EntityFramework.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\EntityFramework.SqlServer.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Core.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Facebook.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Cookies.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.OAuth.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Google.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.Twitter.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\bin\System.Web.Http.Owin.xml
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\obj\Debug\SafiMed.Resources.Resource.resources
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\obj\Debug\SafiMed.Resources.Resource.ru.resources
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\obj\Debug\SafiMed.csproj.GenerateResource.Cache
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\obj\Debug\ru\SafiMed.resources.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\obj\Debug\SafiMed.dll
+D:\freework\SafiMed\safi-med\Last Version\SafiMeda\SafiMeda\obj\Debug\SafiMed.pdb

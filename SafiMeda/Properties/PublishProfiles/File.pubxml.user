@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\freework\SafiMed\safi-med\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>03/02/2017 14:31:46</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>02/16/2017 14:07:53</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>03/02/2017 14:31:46</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>03/02/2017 14:31:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>03/02/2017 14:31:47</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>03/02/2017 14:31:47</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>03/02/2017 14:31:47</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>03/02/2017 14:31:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>03/02/2017 14:31:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>03/02/2017 14:31:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>03/02/2017 14:31:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>03/02/2017 14:31:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>03/02/2017 14:31:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>03/02/2017 14:31:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>03/02/2017 14:31:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>03/02/2017 14:31:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>03/02/2017 14:31:48</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/02/2017 14:31:49</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>03/02/2017 14:31:49</publishTime>
+    </File>
+    <File Include="bin/ru/SafiMed.resources.dll">
+      <publishTime>03/29/2017 21:26:35</publishTime>
+    </File>
+    <File Include="bin/SafiMed.dll">
+      <publishTime>03/29/2017 21:26:35</publishTime>
+    </File>
+    <File Include="bin/SafiMed.pdb">
+      <publishTime>03/01/2017 21:04:12</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>03/02/2017 14:31:47</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>03/02/2017 14:31:48</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>03/02/2017 14:31:47</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Owin.dll">
+      <publishTime>03/02/2017 14:31:48</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>03/02/2017 14:31:48</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>03/02/2017 14:31:47</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>03/02/2017 14:31:47</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>03/02/2017 14:31:47</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>03/02/2017 14:31:48</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>03/02/2017 14:31:48</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>03/02/2017 14:31:48</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>03/02/2017 14:31:49</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>02/12/2017 13:44:55</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/android-icon-144x144.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/android-icon-192x192.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/android-icon-36x36.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/android-icon-48x48.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/android-icon-72x72.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/android-icon-96x96.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/apple-icon-114x114.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/apple-icon-120x120.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/apple-icon-144x144.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/apple-icon-152x152.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/apple-icon-180x180.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/apple-icon-57x57.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/apple-icon-60x60.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/apple-icon-72x72.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/apple-icon-76x76.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/apple-icon-precomposed.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/apple-icon.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/browserconfig.xml">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/favicon-16x16.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/favicon-32x32.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/favicon-96x96.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/favicon.ico">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/manifest.json">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/ms-icon-144x144.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/ms-icon-150x150.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/ms-icon-310x310.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Favicon/ms-icon-70x70.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/121.PNG">
+      <publishTime>02/11/2017 15:33:29</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/activities.png">
+      <publishTime>03/07/2017 12:09:14</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/benefits.png">
+      <publishTime>03/07/2017 12:09:14</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/biopharmaceutical.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/consalting.png">
+      <publishTime>03/07/2017 12:09:14</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/contacts.png">
+      <publishTime>03/07/2017 12:09:14</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/corporate.png">
+      <publishTime>03/07/2017 12:09:14</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/devices.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/diagramm-en.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/diagramm-rus.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/director.png">
+      <publishTime>03/07/2017 12:09:14</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/help-to-ensure-the-availability.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/information.png">
+      <publishTime>03/07/2017 12:09:14</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/Logo.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/marketing.png">
+      <publishTime>03/07/2017 12:09:14</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/network.png">
+      <publishTime>03/07/2017 12:09:14</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/New logo big.png">
+      <publishTime>02/12/2017 19:37:20</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/otc-and-medical-cosmetics.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/pharmaceutical-preparations.png">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/principles.png">
+      <publishTime>03/07/2017 12:09:14</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/slide1.jpg">
+      <publishTime>02/14/2017 19:45:42</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/slide2.jpg">
+      <publishTime>02/14/2017 19:45:42</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/slide3.jpg">
+      <publishTime>02/14/2017 19:45:42</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/slide4.jpg">
+      <publishTime>02/14/2017 19:45:42</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/slide5.jpg">
+      <publishTime>02/14/2017 19:45:42</publishTime>
+    </File>
+    <File Include="Content/Styles/Images/who-we-are-top-illustration.png">
+      <publishTime>02/14/2017 19:45:42</publishTime>
+    </File>
+    <File Include="Content/Styles/Main.css">
+      <publishTime>03/02/2017 14:31:50</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>03/02/2017 14:31:49</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>03/02/2017 14:31:51</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>03/02/2017 14:31:51</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>03/02/2017 14:31:51</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>03/02/2017 14:31:51</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>03/02/2017 14:31:49</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/02/2017 14:31:49</publishTime>
+    </File>
+    <File Include="Scripts/App/Main.js">
+      <publishTime>03/02/2017 14:31:53</publishTime>
+    </File>
+    <File Include="Scripts/App/Tabs.js">
+      <publishTime>03/02/2017 14:31:53</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>03/02/2017 14:31:53</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>03/02/2017 14:31:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>03/02/2017 14:31:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>03/02/2017 14:31:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>03/02/2017 14:31:53</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>02/13/2017 15:04:11</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>02/13/2017 15:04:11</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>02/13/2017 15:04:11</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>02/13/2017 15:04:11</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>02/13/2017 15:04:11</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>03/02/2017 14:31:53</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>03/02/2017 14:31:53</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>03/02/2017 14:31:53</publishTime>
+    </File>
+    <File Include="Views/Home/AboutUs.cshtml">
+      <publishTime>03/02/2017 14:31:53</publishTime>
+    </File>
+    <File Include="Views/Home/Contact.cshtml">
+      <publishTime>03/02/2017 14:31:53</publishTime>
+    </File>
+    <File Include="Views/Home/Cooperation.cshtml">
+      <publishTime>03/07/2017 12:45:31</publishTime>
+    </File>
+    <File Include="Views/Home/Home.cshtml">
+      <publishTime>03/02/2017 14:31:53</publishTime>
+    </File>
+    <File Include="Views/Home/View.cshtml">
+      <publishTime>02/14/2017 14:03:13</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>03/02/2017 14:31:53</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>03/07/2017 12:46:49</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>03/02/2017 14:31:53</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>03/02/2017 14:31:53</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/27/2017 23:37:27</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
